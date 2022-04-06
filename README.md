@@ -19,7 +19,7 @@ _{When trying to finish a registration process, One can simply add use this appl
 ## Setup/Installation Requirements
 
 * _The Regular Browser would run the app_
-* _Google Chroma and so on_
+* _Google Chrome and so on_
 
 _{It is a frontend program that runs on your web browser without a server side.}_
 
